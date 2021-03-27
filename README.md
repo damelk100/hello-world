@@ -1,1 +1,1 @@
-# hello-world
+# hello-world My name is Emmanuel. I am new here and i want to learn everything that has to do with data science and analytics. i am open to learning and will appreciate if someone can help me grow in this new profession.
